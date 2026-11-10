@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "exe": "https://raw.githubusercontent.com/Dialsoft/deskgrid-releases/main/DeskGrid.exe",
-  "sha256": "c89068905239056e08473870ebeeac55d207479de2786bfa9f122ad807c2a979",
-  "size": 913920,
-  "published": "2026-11-09",
-  "notes": "New name: DeskGrid. The boxes on your desktop are now called grids; your setup carries over automatically.",
-  "page": "https://dialsoft.com/deskgrid/"
+  "sha256": "166137662b8d4b255396969db9dbc6b894d5de005d7ad91253b7f9ddd7b29f50",
+  "size": 916992,
+  "published": "2026-11-10",
+  "notes": "New: DeskGrid-Setup.exe, an installer with Start menu entry and uninstaller. Your grids and files are kept.",
+  "page": "https://github.com/Dialsoft/deskgrid-releases#readme"
 }

@@ -11,12 +11,17 @@
 
 ## Download
 
-**[Download DeskGrid.exe](https://raw.githubusercontent.com/Dialsoft/deskgrid-releases/main/DeskGrid.exe)** for Windows 10 or 11.
+For Windows 10 or 11:
 
-It's a single program file with nothing to install. Put it somewhere permanent, such as your Documents folder, and double-click it. DeskGrid updates itself automatically.
+- **[Download the installer: DeskGrid-Setup.exe](https://raw.githubusercontent.com/Dialsoft/deskgrid-releases/main/DeskGrid-Setup.exe)** (recommended). No administrator password needed. It adds DeskGrid to the Start menu, starts it with Windows and includes an uninstaller.
+- [Download just the program: DeskGrid.exe](https://raw.githubusercontent.com/Dialsoft/deskgrid-releases/main/DeskGrid.exe). A single file with nothing to install. Put it somewhere permanent, such as your Documents folder, and double-click it.
+
+Windows may show a blue "Windows protected your PC" box the first time, because the download is new. Click **More info**, then **Run anyway**.
+
+DeskGrid updates itself automatically either way.
 
 - [Watch the 2-minute video](deskgrid-explainer.mp4)
 - [What's new](RELEASE_NOTES.md)
-- [Website and manual](https://dialsoft.com/deskgrid/)
+- [User manual](USER-MANUAL.md)
 
 © 2026 Dialsoft LLC, Wharton, New Jersey.

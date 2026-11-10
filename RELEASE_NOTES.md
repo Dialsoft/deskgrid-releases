@@ -1,5 +1,13 @@
 # DeskGrid release notes
 
+## 1.2.0 (November 2026)
+
+- **New: an installer, `DeskGrid-Setup.exe`.** It needs no administrator password, adds DeskGrid to the Start menu, starts it with Windows, and adds an uninstaller under Settings → Apps. The single-file `DeskGrid.exe` still works for anyone who prefers not to install.
+- Uninstalling never deletes your files. The folder that holds your grids' files becomes a normal, visible folder on the desktop.
+- Installing over a running copy closes it cleanly first and starts the new one. Your grids are kept.
+- IT staff can install silently with `DeskGrid-Setup.exe /S`.
+- Help → User manual and the About links now open the DeskGrid page on GitHub.
+
 ## 1.1.0 (November 2026)
 
 - **New name: DeskGrid.** The boxes on your desktop are now called **grids**.

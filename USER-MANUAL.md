@@ -1,6 +1,6 @@
 # DeskGrid — User Manual
 
-*Version 1.1.0 · Dialsoft LLC · Windows 10 and 11*
+*Version 1.2.0 · Dialsoft LLC · Windows 10 and 11*
 
 DeskGrid tidies your Windows desktop into shaded, labeled boxes called **grids**. Each grid holds the icons you put in it and can be named, colored, made more or less see-through, rolled up out of the way, locked in place, or hidden with a double-click. A **Folder Portal** is a grid that shows a folder you already have, like Documents or a network share.
 
@@ -8,11 +8,20 @@ DeskGrid tidies your Windows desktop into shaded, labeled boxes called **grids**
 
 ## 1. Getting started
 
-1. Put `DeskGrid.exe` somewhere permanent, such as your **Documents** folder, and double-click it. There is nothing to install.
-2. The DeskGrid window opens on **Start here**. Click **Organize my desktop for me** for a one-click tidy-up, or **Make one empty grid** to start by hand.
-3. DeskGrid now lives in the **notification area** (by the clock). Closing its window keeps it running. Double-click the icon there to open the window again.
+**Install it (recommended).** Download and run `DeskGrid-Setup.exe`. Setup needs no administrator password. It adds DeskGrid to the Start menu, starts it with Windows, and adds an uninstaller under **Settings → Apps → Installed apps**. Windows may show a blue "Windows protected your PC" box the first time, because the installer is new; click **More info**, then **Run anyway**.
+
+**Or run it without installing.** Download `DeskGrid.exe`, put it somewhere permanent such as your **Documents** folder, and double-click it.
+
+Either way:
+
+1. The DeskGrid window opens on **Start here**. Click **Organize my desktop for me** for a one-click tidy-up, or **Make one empty grid** to start by hand.
+2. DeskGrid now lives in the **notification area** (by the clock). Closing its window keeps it running. Double-click the icon there to open the window again.
 
 DeskGrid starts with Windows by default. Grids only show while it is running, so leave that on (**Options → Start DeskGrid when I sign in**).
+
+**Uninstalling.** Use **Settings → Apps → Installed apps → DeskGrid → Uninstall**. Your files are never deleted: the folder that holds them appears on your desktop as a normal folder named **DeskGrid**, with one folder inside per grid. The uninstaller asks whether to keep your saved layout, so installing again can bring your grids back as they were.
+
+**For IT staff.** `DeskGrid-Setup.exe /S` installs silently for the signed-in user and starts DeskGrid. `Uninstall.exe /S` removes it silently and keeps the user's files and settings.
 
 ## 2. Using grids
 
