@@ -15,6 +15,7 @@
 
 It's a single program file with nothing to install. Put it somewhere permanent, such as your Documents folder, and double-click it. Desk Scout updates itself automatically.
 
+- [Watch the 2-minute video](desk-scout-explainer.mp4)
 - [What's new](RELEASE_NOTES.md)
 - [Website and manual](https://dialsoft.com/desk-scout/)
 

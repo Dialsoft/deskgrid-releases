@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exe": "https://raw.githubusercontent.com/Dialsoft/deskscout-releases/main/DeskScout.exe",
-  "sha256": "a2438bfe55baf3ca676d03243898a9b62570447b4397423e33d99a7d7eb09819",
-  "size": 906752,
+  "sha256": "04295c7e91e3abe8cc199ed246dca27c4bfb98923c6b4852001687d98435b929",
+  "size": 911872,
   "published": "2026-11-09",
-  "notes": "First release of Desk Scout: fences, folder portals, rules, quick-hide, peek, snapshots and automatic updates.",
+  "notes": "Watch-the-video button, automatic update option, safer saving and several safety fixes for your files.",
   "page": "https://dialsoft.com/desk-scout/"
 }

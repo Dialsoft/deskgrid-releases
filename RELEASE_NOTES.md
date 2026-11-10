@@ -1,5 +1,18 @@
 # Desk Scout release notes
 
+## 1.0.1 (November 2026)
+
+- **New:** Help > **Watch the video**, a 2-minute narrated tour ([watch it here](desk-scout-explainer.mp4)).
+- **New:** Options > **Install updates automatically**, on by default. Each update is checked against its published SHA-256 fingerprint before it is installed, and a notice by the clock tells you when it happened.
+- Your fences are saved more safely. There is never a moment without a settings file, and Desk Scout falls back to the backup copy if it needs to.
+- If a fence's settings are ever lost, Desk Scout rebuilds the fence from its folder automatically, so no files are left stranded.
+- Removing a fence now keeps the fence if any of its files couldn't be put back on the desktop, for example a file that is open in a program.
+- Items you drag or move back onto the desktop are no longer pulled straight back into a fence by a rule.
+- Folders that are still being copied onto the desktop are never moved mid-copy.
+- Shortcuts that belong to all users go back to the Public Desktop when you remove their fence.
+- Fences show correctly when a wallpaper slideshow or wallpaper app is running.
+- Every part of the source code is now commented.
+
 ## 1.0.0 (November 2026)
 
 First release.

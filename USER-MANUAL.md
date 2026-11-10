@@ -1,6 +1,6 @@
 # Desk Scout — User Manual
 
-*Version 1.0.0 · Dialsoft LLC · Windows 10 and 11*
+*Version 1.0.1 · Dialsoft LLC · Windows 10 and 11*
 
 Desk Scout tidies your Windows desktop into shaded, labelled boxes called **fences**. Each fence holds the icons you put in it and can be named, coloured, made more or less see-through, rolled up out of the way, locked in place, or hidden with a double-click. A **Folder Portal** is a fence that shows a folder you already have, like Documents or a network share.
 
@@ -87,7 +87,11 @@ Desk Scout also remembers fence positions **separately for each screen arrangeme
 
 ## 8. Updates
 
-Desk Scout checks for a new version when it starts and every 6 hours after that. When one is available, it shows a notice and a green link in the window's status bar. Installing an update takes a few seconds and doesn't touch your fences.
+Desk Scout keeps itself up to date. It checks when it starts and every 6 hours after that. When a new version is out, it waits until you aren't busy, downloads it, and checks it against its published SHA-256 fingerprint. A damaged or tampered download is never installed. It then swaps itself in and restarts in a few seconds, without touching your fences or files. A notice by the clock tells you it happened, and **Help → What's new** lists the changes.
+
+To decide for yourself, turn off **Options → Install updates automatically**. You then get a notice and a green "Update available" link in the status bar instead, and nothing installs until you click it or **Help → Check for updates**.
+
+**Help → Watch the video** plays a 2-minute narrated tour of Desk Scout.
 
 ---
 
