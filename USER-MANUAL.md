@@ -1,15 +1,15 @@
 # Desk Scout — User Manual
 
-*Version 1.0.1 · Dialsoft LLC · Windows 10 and 11*
+*Version 1.0.2 · Dialsoft LLC · Windows 10 and 11*
 
-Desk Scout tidies your Windows desktop into shaded, labelled boxes called **fences**. Each fence holds the icons you put in it and can be named, coloured, made more or less see-through, rolled up out of the way, locked in place, or hidden with a double-click. A **Folder Portal** is a fence that shows a folder you already have, like Documents or a network share.
+Desk Scout tidies your Windows desktop into shaded, labeled boxes called **fences**. Each fence holds the icons you put in it and can be named, colored, made more or less see-through, rolled up out of the way, locked in place, or hidden with a double-click. A **Folder Portal** is a fence that shows a folder you already have, like Documents or a network share.
 
 ---
 
 ## 1. Getting started
 
 1. Put `DeskScout.exe` somewhere permanent, such as your **Documents** folder, and double-click it. There is nothing to install.
-2. The Desk Scout window opens on **Start here**. Click **Organise my desktop for me** for a one-click tidy-up, or **Make one empty fence** to start by hand.
+2. The Desk Scout window opens on **Start here**. Click **Organize my desktop for me** for a one-click tidy-up, or **Make one empty fence** to start by hand.
 3. Desk Scout now lives in the **notification area** (by the clock). Closing its window keeps it running. Double-click the icon there to open the window again.
 
 Desk Scout starts with Windows by default. Fences only show while it is running, so leave that on (**Options → Start Desk Scout when I sign in**).
@@ -36,17 +36,17 @@ Desk Scout starts with Windows by default. Fences only show while it is running,
 
 These are all on the fence's right-click menu and on the **Fence settings** tab:
 
-- **Colour.** Thirteen ready-made colours, or any colour you like.
+- **Color.** Thirteen ready-made colors, or any color you like.
 - **See-through.** Choose anything from *invisible* (icons only) to *solid*. Icons and names stay sharp either way.
 - **Icon size.** Small, Medium, Large or Extra large. You can also choose a **grid** or a **list** (one item per line, which fits many more).
 - **Sort by.** Name, type, date changed or size, with an option to reverse the order. Folders always come first.
 - **Icon look.**
   - *Normal*
   - *Faded until I point at it*: the fence melts into the wallpaper until the mouse is over it.
-  - *Greyscale*
-  - *Tinted with the fence colour*
+  - *Grayscale*
+  - *Tinted with the fence color*
 - **Thumbnails.** Photos and videos show a small preview instead of a plain icon.
-- **Title position.** Centred or on the left.
+- **Title position.** Centered or on the left.
 
 ## 3. Folder Portals
 
@@ -62,7 +62,7 @@ A rule says "files like this go into that fence". Rules are checked from the top
 
 When **Automatic sorting** is on, a new file that lands on the desktop is moved into its fence about 3 seconds after it arrives. Desk Scout waits until downloads and copies have finished first. **Sort desktop now** applies the rules to everything that is already on the desktop.
 
-**Organise my desktop** sets all of this up in one go. It shows you its plan first, then makes a fence for each kind of thing on your desktop, moves the items in, and adds the rules. Some shortcuts belong to every user of the PC (they live in the Public Desktop folder). Moving those needs administrator permission, so Windows asks you once.
+**Organize my desktop** sets all of this up in one go. It shows you its plan first, then makes a fence for each kind of thing on your desktop, moves the items in, and adds the rules. Some shortcuts belong to every user of the PC (they live in the Public Desktop folder). Moving those needs administrator permission, so Windows asks you once.
 
 ## 5. Quick-hide and Peek
 

@@ -1,5 +1,9 @@
 # Desk Scout release notes
 
+## 1.0.2 (November 2026)
+
+- American spelling throughout (color, organize, gray, centered and so on) in the program, the manual and the video.
+
 ## 1.0.1 (November 2026)
 
 - **New:** Help > **Watch the video**, a 2-minute narrated tour ([watch it here](desk-scout-explainer.mp4)).
@@ -18,7 +22,7 @@
 First release.
 
 - **Fences:** shaded, see-through boxes for your desktop icons. You can set each fence's:
-  - name and colour
+  - name and color
   - see-through level
   - icon size
   - layout (grid or list)
@@ -27,13 +31,13 @@ First release.
 - **Roll-up:** double-click a fence's title to shrink it to just the title bar. Point at it to peek inside.
 - **Lock** a fence's position and size. Fences snap neatly to screen edges and to each other.
 - **Folder Portals:** show any folder on the desktop and browse into its sub-folders.
-- **Rules:** new desktop files are sorted into fences automatically, by kind, file ending or name pattern. **Organise my desktop** sets everything up in one click.
+- **Rules:** new desktop files are sorted into fences automatically, by kind, file ending or name pattern. **Organize my desktop** sets everything up in one click.
 - **Quick-hide:** double-click empty desktop to hide all fences and desktop icons.
 - **Peek:** press Ctrl+Alt+Space to bring every fence in front of your open windows.
 - **Icon looks:**
   - faded until you point at it
-  - greyscale
-  - tinted with the fence colour
+  - grayscale
+  - tinted with the fence color
 
   Photos and videos can show thumbnails.
 - **Snapshots** of your whole layout. Positions are remembered separately for each monitor arrangement.

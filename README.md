@@ -1,8 +1,8 @@
 # Desk Scout
 
-**Tidy your Windows desktop into labelled, shaded fences.** Desk Scout is from Dialsoft and works much like Stardock Fences:
+**Tidy your Windows desktop into labeled, shaded fences.** Desk Scout is from Dialsoft and works much like Stardock Fences:
 
-- **Fences:** group your icons into boxes you can name, colour and make see-through, then roll up, lock or hide.
+- **Fences:** group your icons into boxes you can name, color and make see-through, then roll up, lock or hide.
 - **Folder Portals:** show any folder right on the desktop.
 - **Rules:** new downloads and screenshots sort themselves into the right fence.
 - **Quick-hide:** double-click the desktop to hide every fence.
