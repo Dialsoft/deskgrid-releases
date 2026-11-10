@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "exe": "https://raw.githubusercontent.com/Dialsoft/deskscout-releases/main/DeskScout.exe",
-  "sha256": "d65f837afab3fd5ad75d1117ac056be8480a805173dd39beb56e829f629566a1",
-  "size": 912384,
+  "version": "1.1.0",
+  "exe": "https://raw.githubusercontent.com/Dialso../deskgrid-releases/main/DeskGrid.exe",
+  "sha256": "c89068905239056e08473870ebeeac55d207479de2786bfa9f122ad807c2a979",
+  "size": 913920,
   "published": "2026-11-09",
-  "notes": "American spelling throughout the program, manual and video.",
-  "page": "https://dialsoft.com/desk-scout/"
+  "notes": "New name: DeskGrid. The boxes on your desktop are now called grids; your setup carries over automatically.",
+  "page": "https://dialsoft.com/deskgrid/"
 }
